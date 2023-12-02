@@ -50,6 +50,8 @@ On the right is the current qualification match. It shows the teams playing, and
 
 The Team Notes sheet shows a list of teams participating, dictated by the schedule. If a team is not playing any games, then they will not appear in the team list. In the match list, it shows every game they play, along with their alliance, and whether they won or lost (win = gold text). Click on these numbers to be sent to the match, using the timestamp specified earlier. This allows for you to instantly look at any teams matches. 
 
+The password to unlock the spreadsheet is 'Centralstage'
+
 ## Roadmap
 
 I plan on adding more features, such as automatic OPR calculations (if i can figure out the maths!), and live rankings based on it. Additionally
